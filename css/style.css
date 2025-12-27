@@ -1,13 +1,10 @@
 body {
-  background-color: #f5f5f5;
+  margin: 0;
   font-family: sans-serif;
 }
 
-h1 {
-  color: #333;
+#map {
+  height: 80vh;   /* 画面の80%の高さ */
+  width: 100%;
 }
 
-#status {
-  color: blue;
-  font-weight: bold;
-}
